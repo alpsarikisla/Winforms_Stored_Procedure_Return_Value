@@ -1,0 +1,10 @@
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\bin\Debug\StoredProcedureKullanimi.exe.config
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\bin\Debug\StoredProcedureKullanimi.exe
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\bin\Debug\StoredProcedureKullanimi.pdb
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\obj\Debug\StoredProcedureKullanimi.csprojAssemblyReference.cache
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\obj\Debug\StoredProcedureKullanimi.Form1.resources
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\obj\Debug\StoredProcedureKullanimi.Properties.Resources.resources
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\obj\Debug\StoredProcedureKullanimi.csproj.GenerateResource.cache
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\obj\Debug\StoredProcedureKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\obj\Debug\StoredProcedureKullanimi.exe
+C:\Users\Alp\source\repos\StoredProcedureKullanimi\StoredProcedureKullanimi\obj\Debug\StoredProcedureKullanimi.pdb
